@@ -1,2 +1,2 @@
-Cats
-Mangos
+- Cats
+- Mangos
